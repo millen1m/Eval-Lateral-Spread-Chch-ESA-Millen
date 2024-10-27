@@ -1,0 +1,549 @@
+{
+    "name": "",
+    "units": null,
+    "doi": "",
+    "sfsimodels_version": "0.9.40",
+    "comments": "",
+    "models": {
+        "soil": {
+            "1": {
+                "id": 1,
+                "base_type": "soil",
+                "type": "pm4sand",
+                "stype": "soil",
+                "g_mod": 16629431.74014073,
+                "bulk_mod": 36030435.43697158,
+                "poissons_ratio": 0.3,
+                "phi": 33.0,
+                "e_min": 0.5,
+                "e_max": 0.8,
+                "e_curr": 0.6561522068433121,
+                "relative_density": 0.4794926438556264,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 15680.92587908921,
+                "unit_sat_weight": 19563.595358678187,
+                "saturation": 0.9999999999999999,
+                "cohesion": 0.0,
+                "permeability": 9.120108393559115e-07,
+                "gravity": 9.8,
+                "wmd": 1000.0,
+                "liq_sg": 1,
+                "g0_mod": 370.0,
+                "p_atm": 101000.0,
+                "a": 0.5,
+                "h_po": 0.5115048148544153,
+                "crr_n15": 0.12193926760600829,
+                "tension": 1000000.0,
+                "i_c": 2.3,
+                "q_c1ncs": 84.5,
+                "unique_hash": "fb7d6e2db98f6b415b84115caf1f4cc8"
+            },
+            "2": {
+                "id": 2,
+                "base_type": "soil",
+                "type": "pm4sand",
+                "stype": "soil",
+                "g_mod": 3404852.9022028106,
+                "bulk_mod": 7377181.288106089,
+                "poissons_ratio": 0.3,
+                "phi": 33.0,
+                "e_min": 0.5000000000000003,
+                "e_max": 0.7999999999999999,
+                "e_curr": 0.6525765366366119,
+                "relative_density": 0.49141154454462754,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 15714.85460688868,
+                "unit_sat_weight": 19584.720792968423,
+                "saturation": 0.9999999999999996,
+                "cohesion": 0.0,
+                "permeability": 5.248074602497734e-06,
+                "gravity": 9.8,
+                "wmd": 1000.0,
+                "liq_sg": 1,
+                "g0_mod": 370.0,
+                "p_atm": 101000.0,
+                "a": 0.5,
+                "h_po": 0.4768254999609725,
+                "crr_n15": 0.12427781702149748,
+                "tension": 1000000.0,
+                "i_c": 2.05,
+                "q_c1ncs": 87.0,
+                "unique_hash": "9abe2c270f8f2b3fc6d5f785faf1164c"
+            },
+            "3": {
+                "id": 3,
+                "base_type": "soil",
+                "type": "pm4sand",
+                "stype": "soil",
+                "g_mod": 28234132.91400913,
+                "bulk_mod": 61173954.64701978,
+                "poissons_ratio": 0.3,
+                "phi": 33.0,
+                "e_min": 0.5,
+                "e_max": 0.8,
+                "e_curr": 0.6372979644801164,
+                "relative_density": 0.5423401183996119,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 15861.498983934871,
+                "unit_sat_weight": 19676.027669242467,
+                "saturation": 1.0,
+                "cohesion": 0.0,
+                "permeability": 2.128139045982709e-05,
+                "gravity": 9.8,
+                "wmd": 1000.0,
+                "liq_sg": 1,
+                "g0_mod": 551.0,
+                "p_atm": 101000.0,
+                "a": 0.5,
+                "h_po": 0.3313497421597297,
+                "crr_n15": 0.13601839051866177,
+                "tension": 1000000.0,
+                "i_c": 1.85,
+                "q_c1ncs": 98.3,
+                "unique_hash": "c859e75128e0619afb98e244c697cab0"
+            },
+            "4": {
+                "id": 4,
+                "base_type": "soil",
+                "type": "pm4sand",
+                "stype": "soil",
+                "g_mod": 87579781.13554965,
+                "bulk_mod": 189756192.46035755,
+                "poissons_ratio": 0.3,
+                "phi": 33.0,
+                "e_min": 0.5,
+                "e_max": 0.8,
+                "e_curr": 0.5623647200869326,
+                "relative_density": 0.7921175997102247,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 16622.239139242076,
+                "unit_sat_weight": 20149.69606782997,
+                "saturation": 1.0000000000000002,
+                "cohesion": 0.0,
+                "permeability": 6.995197810512135e-05,
+                "gravity": 9.8,
+                "wmd": 1000.0,
+                "liq_sg": 1,
+                "g0_mod": 1040.0,
+                "p_atm": 101000.0,
+                "a": 0.5,
+                "h_po": 2.1509135506849266,
+                "crr_n15": 0.4986316061541332,
+                "tension": 1000000.0,
+                "i_c": 1.68,
+                "q_c1ncs": 170.0,
+                "unique_hash": "a011f8086698f9443714ef3e1c898733"
+            },
+            "5": {
+                "id": 5,
+                "base_type": "soil",
+                "type": "pm4sand",
+                "stype": "soil",
+                "g_mod": 124680500.95727047,
+                "bulk_mod": 270141085.4074193,
+                "poissons_ratio": 0.3,
+                "phi": 40.0,
+                "dilation_angle": 0.0,
+                "e_min": 0.5,
+                "e_max": 0.8,
+                "e_curr": 0.5599999999999998,
+                "relative_density": 0.8000000000000006,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 16647.4358974359,
+                "unit_sat_weight": 20165.384615384617,
+                "saturation": 1.0000000000000002,
+                "cohesion": 0.0,
+                "permeability": 0.00012246161992650464,
+                "gravity": 9.8,
+                "wmd": 1000.0,
+                "liq_sg": 1,
+                "g0_mod": 1200.0,
+                "p_atm": 101000.0,
+                "a": 0.5,
+                "h_po": 4.0,
+                "crr_n15": 0.6,
+                "phi_cv": 40.0,
+                "tension": 1000000.0,
+                "unique_hash": "171aaa11ae72af773de240d57a756034"
+            },
+            "6": {
+                "id": 6,
+                "base_type": "soil",
+                "type": "soil",
+                "stype": "elastic",
+                "g_mod": 326530612.2448979,
+                "bulk_mod": 1523809523.8095238,
+                "poissons_ratio": 0.4,
+                "phi": 40.0,
+                "dilation_angle": 0.0,
+                "e_curr": 0.585294117647059,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 16381.81818181818,
+                "unit_sat_weight": 20000.0,
+                "cohesion": 0.0,
+                "permeability": 6.081350012787176e-05,
+                "gravity": 9.8,
+                "wmd": 1000,
+                "liq_sg": 1.0,
+                "unique_hash": "50ce2646f7f31982107db0a6abadbd32"
+            },
+            "7": {
+                "name": "surface-soil",
+                "base_type": "soil",
+                "type": "pm4sand",
+                "stype": "soil",
+                "poissons_ratio": 0.3,
+                "phi": 33.0,
+                "dilation_angle": 0.0,
+                "e_min": 0.5,
+                "e_max": 0.8,
+                "e_curr": 0.665,
+                "relative_density": 0.44999999999999996,
+                "specific_gravity": 2.65,
+                "unit_dry_weight": 15597.597597597598,
+                "unit_sat_weight": 19511.711711711712,
+                "cohesion": 10000.0,
+                "gravity": 9.8,
+                "wmd": 1000,
+                "liq_sg": 1.0,
+                "g0_mod": 370.0,
+                "p_atm": 101000.0,
+                "a": 0.5,
+                "h_po": 4.0,
+                "crr_n15": 0.6,
+                "phi_cv": 33.0,
+                "mc_c": 10000.0,
+                "tension": 0.0,
+                "unique_hash": "fb052e53926f0938667480d1dcf20d0b",
+                "id": 7
+            },
+            "8": {
+                "base_type": "soil",
+                "type": "soil",
+                "stype": "soil",
+                "gravity": 9.8,
+                "wmd": 1000,
+                "liq_sg": 1,
+                "unique_hash": "b3ba8d24a03f58515c1af9066171fa23",
+                "id": 15
+            }
+        },
+        "soil_profile": {
+            "1": {
+                "name": "LHS",
+                "gwl": 1000000.0,
+                "unit_water_weight": 9800.0,
+                "layers": [
+                    {
+                        "soil_id": 1,
+                        "soil_unique_hash": "fb7d6e2db98f6b415b84115caf1f4cc8",
+                        "depth": 0.0
+                    },
+                    {
+                        "soil_id": 2,
+                        "soil_unique_hash": "9abe2c270f8f2b3fc6d5f785faf1164c",
+                        "depth": 2.5110315249649067
+                    },
+                    {
+                        "soil_id": 3,
+                        "soil_unique_hash": "c859e75128e0619afb98e244c697cab0",
+                        "depth": 3.8431289034771168
+                    },
+                    {
+                        "soil_id": 4,
+                        "soil_unique_hash": "a011f8086698f9443714ef3e1c898733",
+                        "depth": 8.928470663394775
+                    },
+                    {
+                        "soil_id": 5,
+                        "soil_unique_hash": "171aaa11ae72af773de240d57a756034",
+                        "depth": 14.999999999999998
+                    },
+                    {
+                        "soil_id": 6,
+                        "soil_unique_hash": "50ce2646f7f31982107db0a6abadbd32",
+                        "depth": 17.0
+                    }
+                ],
+                "height": 28.0,
+                "x_angles": [
+                    NaN,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "unique_hash": "749b0ffd02db2c70dc3db04e616bdc1e",
+                "id": 1
+            },
+            "2": {
+                "name": "free-field",
+                "gwl": 1000000.0,
+                "unit_water_weight": 9800.0,
+                "layers": [
+                    {
+                        "soil_id": 1,
+                        "soil_unique_hash": "fb7d6e2db98f6b415b84115caf1f4cc8",
+                        "depth": 0.0
+                    },
+                    {
+                        "soil_id": 2,
+                        "soil_unique_hash": "9abe2c270f8f2b3fc6d5f785faf1164c",
+                        "depth": 2.5110315249649067
+                    },
+                    {
+                        "soil_id": 3,
+                        "soil_unique_hash": "c859e75128e0619afb98e244c697cab0",
+                        "depth": 3.8431289034771168
+                    },
+                    {
+                        "soil_id": 4,
+                        "soil_unique_hash": "a011f8086698f9443714ef3e1c898733",
+                        "depth": 8.928470663394775
+                    },
+                    {
+                        "soil_id": 5,
+                        "soil_unique_hash": "171aaa11ae72af773de240d57a756034",
+                        "depth": 14.999999999999998
+                    },
+                    {
+                        "soil_id": 6,
+                        "soil_unique_hash": "50ce2646f7f31982107db0a6abadbd32",
+                        "depth": 17.0
+                    }
+                ],
+                "height": 28.0,
+                "x_angles": [
+                    NaN,
+                    8.292696193183818e-05,
+                    -0.004937877998623462,
+                    0.0032209300622789015,
+                    -8.361319904041044e-18,
+                    2.7871066346803483e-18
+                ],
+                "unique_hash": "71cbe36da10e34bbc0461cec7f1dd999",
+                "id": 2
+            },
+            "3": {
+                "id": 3,
+                "name": 37,
+                "gwl": 1000000.0,
+                "unit_water_weight": 9800.0,
+                "layers": [
+                    {
+                        "soil_id": 1,
+                        "soil_unique_hash": "fb7d6e2db98f6b415b84115caf1f4cc8",
+                        "depth": 0.0
+                    },
+                    {
+                        "soil_id": 2,
+                        "soil_unique_hash": "9abe2c270f8f2b3fc6d5f785faf1164c",
+                        "depth": 2.5
+                    },
+                    {
+                        "soil_id": 3,
+                        "soil_unique_hash": "c859e75128e0619afb98e244c697cab0",
+                        "depth": 4.5
+                    },
+                    {
+                        "soil_id": 4,
+                        "soil_unique_hash": "a011f8086698f9443714ef3e1c898733",
+                        "depth": 8.5
+                    },
+                    {
+                        "soil_id": 5,
+                        "soil_unique_hash": "171aaa11ae72af773de240d57a756034",
+                        "depth": 15.0
+                    },
+                    {
+                        "soil_id": 6,
+                        "soil_unique_hash": "50ce2646f7f31982107db0a6abadbd32",
+                        "depth": 17.0
+                    }
+                ],
+                "height": 28.0,
+                "x_angles": [
+                    NaN,
+                    -0.0,
+                    -0.0,
+                    -0.0,
+                    -0.0,
+                    -0.0
+                ],
+                "unique_hash": "c4f0869dedf04f144a412ff89df04b3a"
+            },
+            "4": {
+                "id": 4,
+                "name": 37,
+                "gwl": 1000000.0,
+                "unit_water_weight": 9800.0,
+                "layers": [
+                    {
+                        "soil_id": 1,
+                        "soil_unique_hash": "fb7d6e2db98f6b415b84115caf1f4cc8",
+                        "depth": 0.0
+                    },
+                    {
+                        "soil_id": 2,
+                        "soil_unique_hash": "9abe2c270f8f2b3fc6d5f785faf1164c",
+                        "depth": 2.5
+                    },
+                    {
+                        "soil_id": 3,
+                        "soil_unique_hash": "c859e75128e0619afb98e244c697cab0",
+                        "depth": 4.5
+                    },
+                    {
+                        "soil_id": 4,
+                        "soil_unique_hash": "a011f8086698f9443714ef3e1c898733",
+                        "depth": 8.5
+                    },
+                    {
+                        "soil_id": 5,
+                        "soil_unique_hash": "171aaa11ae72af773de240d57a756034",
+                        "depth": 15.0
+                    },
+                    {
+                        "soil_id": 6,
+                        "soil_unique_hash": "50ce2646f7f31982107db0a6abadbd32",
+                        "depth": 17.0
+                    }
+                ],
+                "height": 28.0,
+                "x_angles": [
+                    NaN,
+                    -8.292696193183818e-05,
+                    0.004937877998623462,
+                    -0.0032209300622789015,
+                    8.361319904041044e-18,
+                    -2.7871066346803483e-18
+                ],
+                "unique_hash": "b0290e77749b4dd0b8cdf77c5624cc24"
+            },
+            "5": {
+                "name": "free-field",
+                "gwl": 1000000.0,
+                "unit_water_weight": 9800.0,
+                "layers": [
+                    {
+                        "soil_id": 1,
+                        "soil_unique_hash": "fb7d6e2db98f6b415b84115caf1f4cc8",
+                        "depth": 0.0
+                    },
+                    {
+                        "soil_id": 2,
+                        "soil_unique_hash": "9abe2c270f8f2b3fc6d5f785faf1164c",
+                        "depth": 2.5110315249649067
+                    },
+                    {
+                        "soil_id": 3,
+                        "soil_unique_hash": "c859e75128e0619afb98e244c697cab0",
+                        "depth": 3.8431289034771168
+                    },
+                    {
+                        "soil_id": 4,
+                        "soil_unique_hash": "a011f8086698f9443714ef3e1c898733",
+                        "depth": 8.928470663394775
+                    },
+                    {
+                        "soil_id": 5,
+                        "soil_unique_hash": "171aaa11ae72af773de240d57a756034",
+                        "depth": 14.999999999999998
+                    },
+                    {
+                        "soil_id": 6,
+                        "soil_unique_hash": "50ce2646f7f31982107db0a6abadbd32",
+                        "depth": 17.0
+                    }
+                ],
+                "height": 28.0,
+                "x_angles": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "unique_hash": "4205ffb3c7b063c085894af478ed12b9",
+                "id": 5
+            }
+        },
+        "foundation": {},
+        "building": {},
+        "system": {
+            "1": {
+                "base_type": "system",
+                "type": "two_d_system",
+                "id": 1,
+                "name": "avd123multi_im_mm",
+                "width": 394.0,
+                "height": 14.6,
+                "sps": [
+                    {
+                        "x": 0.0,
+                        "soil_profile_id": 1,
+                        "soil_profile_unique_hash": "749b0ffd02db2c70dc3db04e616bdc1e"
+                    },
+                    {
+                        "x": 30.0,
+                        "soil_profile_id": 2,
+                        "soil_profile_unique_hash": "71cbe36da10e34bbc0461cec7f1dd999"
+                    },
+                    {
+                        "x": 163.027,
+                        "soil_profile_id": 3,
+                        "soil_profile_unique_hash": "c4f0869dedf04f144a412ff89df04b3a"
+                    },
+                    {
+                        "x": 230.973,
+                        "soil_profile_id": 4,
+                        "soil_profile_unique_hash": "b0290e77749b4dd0b8cdf77c5624cc24"
+                    },
+                    {
+                        "x": 364.0,
+                        "soil_profile_id": 5,
+                        "soil_profile_unique_hash": "4205ffb3c7b063c085894af478ed12b9"
+                    }
+                ],
+                "bds": [],
+                "x_surf": [
+                    0.0,
+                    13.599999999999994,
+                    30.0,
+                    166.6,
+                    170.0,
+                    197.0,
+                    224.0,
+                    227.4,
+                    364.0,
+                    380.4,
+                    394.0
+                ],
+                "y_surf": [
+                    3.4,
+                    3.4,
+                    3.4,
+                    3.4,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.4,
+                    3.4,
+                    3.4,
+                    3.4
+                ],
+                "gwl": 2.0,
+                "loop": null,
+                "h_face": 3.57,
+                "x_face": 224.0,
+                "face_slope": 1.0,
+                "channel_width": 54.0,
+                "g_mod_red": 0.7,
+                "rb_width": 170.0,
+                "dy_target": 0.5
+            }
+        }
+    }
+}
